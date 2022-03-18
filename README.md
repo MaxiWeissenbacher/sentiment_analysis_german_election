@@ -8,3 +8,4 @@ See in Data the:
 
 See in Models:
 - the Notebooks for the three different approaches (BERT, Lexicon-based, Traditional ML)
+- best performing BERT model with 93% will be added soon. If you ned the ".tar.gz" contact maximilian.weissenbacher@stud.uni-regensburg.de
