@@ -8,4 +8,4 @@ See in Data the:
 
 See in Models:
 - the Notebooks for the three different approaches (BERT, Lexicon-based, Traditional ML)
-- best performing BERT model with 93% will be added soon. If you ned the ".tar.gz" contact maximilian.weissenbacher@stud.uni-regensburg.de
+- best performing BERT model with 93% can be seen on Huggingface: https://huggingface.co/mox/gBERt_base_twitter_sentiment_politicians/tree/main
